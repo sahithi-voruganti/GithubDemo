@@ -1,3 +1,6 @@
 This project or source code explains the Github process for source control management using Git
 
 For more documentation on Git, please refer: https://www.atlassian.com/git/tutorials/source-code-management
+
+
+This page helps in understanding the branching techniques
