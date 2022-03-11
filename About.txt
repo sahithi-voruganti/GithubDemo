@@ -3,4 +3,4 @@ This project or source code explains the Github process for source control manag
 For more documentation on Git, please refer: https://www.atlassian.com/git/tutorials/source-code-management
 
 
-fefes
+This page helps in understanding the branching techniques
